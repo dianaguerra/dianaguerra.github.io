@@ -60,7 +60,7 @@ i:hover {
 
 .avatar {
   height: 80vw;
-  width: 80vw;
+  width: 60vw;
 }
 
 @media (min-width: 576px) {
@@ -73,14 +73,14 @@ i:hover {
 @media (min-width: 768px) {
   .avatar {
     height: 30vw;
-    width: 30vw;
+    width: 20vw;
   }
 }
 
 @media (min-width: 1200px) {
   .avatar {
     height: 20vw;
-    width: 20vw;
+    width: 15vw;
   }
 }
 
