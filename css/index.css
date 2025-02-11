@@ -1,9 +1,22 @@
 body,
 html {
-  margin: 0px;
-  background: #353535;
-  color: #eeffff;
   font-family: "Quicksand", sans-serif;
+  margin: 0;
+  line-height: inherit;
+  color: #eeffff;
+}
+header {
+  background: #eeffff;
+  position: static;
+}
+.header {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  max-width: 1440px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 i {
